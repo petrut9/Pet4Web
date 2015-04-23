@@ -1,4 +1,35 @@
-23.04.2015
-  S-a decis designul sitului, atât versiunea desktop cât și cea mobilă.
-  S-a stabilit funcționalitatea butoanelor.
-  S-a realizat designul bazei de date al aplicației.
+    Pet4Web
+
+In scopul realizarii proiectului am identificat urmatoarele module:
+
+*modulul de login
+*modulul  de register
+*baza de date: conectare, creare, populare,interogari, etc.
+*modul de creare petitii
+*modul de administrare petitii
+*modul de administrare mesaje primite
+*modul de generare rapoarte
+*creare paginilor si design
+*modul social network
+
+Momentan am realizat urmatoarele taskuri:
+*designul bazei de date;
+*layout-ul paginilor sit-ului, atat varianta desktop cat si cea mobila;
+
+Ce urmeaza:
+* Ne vom imparti paginile pentru realizarea versiunii lor HTML, apoi pentru a realiza designul in CSS;
+* Lucrul la baza de date;
+Pohrib Petre:
+•	modulul de login
+•	modul de creare petitii
+•	modul de administrare mesaje primite
+•	modul social network
+Vasilie Florin:
+•	modulul  de register
+•	modul de administrare petitii
+•	modul de generare rapoarte
+
+
+
+
+
