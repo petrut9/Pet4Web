@@ -29,6 +29,50 @@ Vasilie Florin:
 •	modul de administrare petitii
 •	modul de generare rapoarte
 
+Pet4Web
+-raport de activitate-
+
+Pentru realizarea proiectului am avut de implemetat urmatoarele funcționalități:
+•	modul login;
+•	modul register;
+•	modul de creare petiții;
+•	modul de administrare a contului de utilizator;
+•	modul ștergere petiții;
+•	modul pentru paginarea petițiilor;
+•	modul pentru votarea petițiilor;
+•	modul generare rapoarte;
+•	modul afișare mesaje;
+•	funcții JavaScript(AJAX);
+•	butoane pentru rețele sociale;
+•	modul baza de date;
+•	manual de utilizare;
+•	modul cautare;
+•	modul afișare categorii;
+
+Am realizat împreună paginile HTML, designul în CSS și crearea bazei de date în Oracle.
+
+Modulele au fost realizate astfel:
+•	Pohrib Petre Mihail
+o	modul de login;
+o	modul de creare petiții;
+o	modul administrare a contului de utilizator;
+o	modul pentru votarea petițiilor;
+o	funcții JavaScript(AJAX);
+o	modul baza de date;
+o	manual de utilizare;
+o	modul afișare categorii;
+•	Vasilie Florin Paul
+o	modul de register;
+o	modul ștergere petiții;
+o	modul pentru paginarea petițiilor;
+o	modul generare rapoarte;
+o	modul afisare mesaje;
+o	butoane pentru rețele sociale;
+o	manual de utilizare;
+o	modul căutare;
+
+
+
 
 
 
